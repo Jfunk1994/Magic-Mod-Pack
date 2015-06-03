@@ -1,0 +1,5 @@
+This is a repository of my(Bishop's) current Magic mod build for minecraft 1.7.10.
+
+If there are any problems with mods causing crashes or what not, 
+   submit an issue report in github and I'll do my best to resolve it
+   when fixes are released.
